@@ -1,0 +1,5 @@
+STUFF FOR PROJECT------
+
+PROLOG
+	- handle strings in is_regexp e in _comp (don't know if I can tbh)
+	- compound/0 might not need to be accepted
